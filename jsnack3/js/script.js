@@ -11,4 +11,5 @@ for (i = 0; i < 6; i++) {
 
 }
 
+document.querySelector("#text").innerHTML = `I numeri dispari del tuo array sono`;
 document.querySelector("#result").innerHTML = `${oddElement}`;
