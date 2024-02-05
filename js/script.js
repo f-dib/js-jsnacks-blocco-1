@@ -1,9 +1,9 @@
-const newAudio = document.querySelector("#soundtrack");
+// const newAudio = document.querySelector("#soundtrack");
 
-window.addEventListener('DOMContentLoaded', (event) => {
+// window.addEventListener('DOMContentLoaded', (event) => {
 
-        newAudio.volume = 0.2;
-})
+//         newAudio.volume = 0.2;
+// })
 
 // // const muteElement = document.querySelector("#mute");
 

@@ -1,0 +1,13 @@
+.my_style {
+    padding: 20px 100px;
+
+    border-radius: 15px;
+    border: 1px solid black;
+}
+
+.my_style2 {
+    padding: 5px 50px;
+
+    border-radius: 10px;
+    border: 1px solid gray;
+}
