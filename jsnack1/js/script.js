@@ -5,7 +5,7 @@ let titleElement = document.querySelector("#text");
 
 if (isNaN(firstElement) && isNaN(secondElement)) {
 
-    if (firstElement.length >= secondElement.length) {
+    if (firstElement.length > secondElement.length) {
     
         titleElement.innerHTML = `La seconda parola è di sole ${secondElement.length} lettere, invece la prima è di ${firstElement.length} lettere`;
         resultElement.innerHTML = `${secondElement} ${firstElement}`;
